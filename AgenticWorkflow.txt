@@ -1,0 +1,7 @@
+Start
+  |
+  |
+LLM(AI Assistant) ------- Tools(Wiki,Arxiv)
+  |
+  |
+End
